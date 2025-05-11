@@ -19,32 +19,3 @@ To use the script, you will need Python 3.x installed on your machine.
 1. Clone this repository:
    ```bash
    git clone https://github.com/yusufa74/custom-wordlist-generator.git
-2. Change into the project directory:
-cd custom-wordlist-generator
-pip install -r requirements.txt
-python3 custom_wordlist.py
- 
-Enter domain (e.g. example.com): http://testphp.vulnweb.com
-Enter maximum number of words you want (e.g. 2000): 15
-
-[+] Crawling http://testphp.vulnweb.com...
-This may take a few moments.
-[+] Visiting: http://testphp.vulnweb.com
-[+] Visiting: http://testphp.vulnweb.com/index.php
-[+] Visiting: http://testphp.vulnweb.com/categories.php
-[+] Visiting: http://testphp.vulnweb.com/artists.php
-[+] Visiting: http://testphp.vulnweb.com/disclaimer.php
-[+] Visiting: http://testphp.vulnweb.com/cart.php
-[+] Visiting: http://testphp.vulnweb.com/guestbook.php
-[+] Visiting: http://testphp.vulnweb.com/AJAX/index.php
-[+] Visiting: http://testphp.vulnweb.com/login.php
-[+] Visiting: http://testphp.vulnweb.com/userinfo.php
-[+] Visiting: http://testphp.vulnweb.com/privacy.php
-[+] Visiting: http://testphp.vulnweb.com/Mod_Rewrite_Shop/
-[+] Visiting: http://testphp.vulnweb.com/hpp/
-
-[+] Done! Saved 15 words to 'wordlist'.
-
-
-
-
