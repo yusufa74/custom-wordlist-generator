@@ -10,6 +10,9 @@ This Python script allows you to crawl a website and generate a custom wordlist 
 - Saves the wordlist to a file (`wordlist`).
 - Simple to use with Python.
 
+  ![Wordlist Screenshot](https://github.com/yusufa74/custom-wordlist-generator/blob/main/wordlist.PNG?raw=true)
+
+
 ## Installation
 
 To use the script, you will need Python 3.x installed on your machine.
